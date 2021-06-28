@@ -1,1 +1,1 @@
-# DesafioZUP
+Repositório dedicado ao desafio Orange Talents da ZUP. Onde foi criada uma API Restful direcionada ao rodízio de veículos com base no ano do mesmo. Além disso foi integrada uma API externa ao projeto, pelo OpenFeign, onde é possível consultar a tabela FIPE.
