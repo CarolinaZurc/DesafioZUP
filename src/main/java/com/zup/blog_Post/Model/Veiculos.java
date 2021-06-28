@@ -29,10 +29,8 @@ public class Veiculos extends EntityModel<Veiculos> {
 	@NotBlank(message = "O ano do veículo deve ser preenchido!")
 	private String ano;
 
-	@NotBlank(message = "O valor do veículo deve ser preenchido!")
 	private String valor;
-
-	@NotBlank(message = "A placa do veículo deve ser preenchida!")
+	
 	private String placa;
 
 	private String diaRodizio;
